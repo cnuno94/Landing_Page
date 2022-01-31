@@ -102,11 +102,17 @@ button{
 }
 .generic p{
     font-size: 18px;
-    color: #e5e7eb;
+    color: #1f2937;
 }
 .container3{
     background-color: #e5e7eb;
-    padding: 50px 375px
+    padding: 50px 325px
+}
+.container3 h1{
+    color: #1f2937;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: normal;
 }
 .container3 h4{
     text-align: right;
@@ -135,7 +141,18 @@ button{
     border-color:#e5e7eb;
     border: 1px solid;
 }
-.container4_1_1 h4, p{
+.container4_1_1 h4{
+    color: #e5e7eb;
+}
+.container4_1_1 p{
+    color: #e5e7eb;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+}
+footer h5{
     color: #e5e7eb;
 }
 
